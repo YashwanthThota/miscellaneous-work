@@ -6,3 +6,4 @@
 - https://github.com/YashwanthThota/Academic-Projects/tree/master/Web%20Data%20Management/Project%201-%20A%20Javascript%20Pong%20Game
 
 **Description and demo link for Blogging application using wordpress**
+- https://github.com/YashwanthThota/Blog-Wordpress
