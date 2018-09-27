@@ -8,7 +8,7 @@
 **Description and demo link for Blogging application using wordpress**
 - https://github.com/YashwanthThota/Blog-Wordpress
 
-**Description and demo link for Angular 4, Typescript application **
+**Description and demo link for Angular 4, Typescript application**
 - https://github.com/YashwanthThota/RecipeBook-Angular4
 
 **Description and demo link for nodejs applications**
@@ -20,10 +20,12 @@
 - https://github.com/YashwanthThota/Blog-PHP-Laravel
 - https://github.com/YashwanthThota/Todos-PHP-laravel
 
-**Description and demo link for PHP Laravel applications**
-- https://github.com/YashwanthThota/Ebookstore-PHP-Laravel
-- https://github.com/YashwanthThota/Blog-PHP-Laravel
-- https://github.com/YashwanthThota/Todos-PHP-laravel
+**Description and demo link for Reactjs applications**
+- https://github.com/YashwanthThota/GoalCoach-ReactJS
+- https://github.com/YashwanthThota/ReminderPro-ReactJS
+
+**Description and demo link for Wordpress application**
+-  https://github.com/YashwanthThota/Blog-Wordpress
 
 **Description for ASP.NET application**
 - https://github.com/YashwanthThota/Vidly-Video-Rental-Application
