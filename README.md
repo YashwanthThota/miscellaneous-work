@@ -5,9 +5,6 @@
 - https://github.com/YashwanthThota/Academic-Projects/tree/master/Web%20Data%20Management/Project%202-%20A%20Music%20Web%20Application
 - https://github.com/YashwanthThota/Academic-Projects/tree/master/Web%20Data%20Management/Project%201-%20A%20Javascript%20Pong%20Game
 
-**Description and demo link for Blogging application using wordpress**
-- https://github.com/YashwanthThota/Blog-Wordpress
-
 **Description and demo link for Angular 4, Typescript application**
 - https://github.com/YashwanthThota/RecipeBook-Angular4
 
@@ -30,6 +27,7 @@
 - https://github.com/YashwanthThota/GoalCoach-ReactJS
 - https://github.com/YashwanthThota/ReminderPro-ReactJS
 
-**Description and demo link for Wordpress application**
--  https://github.com/YashwanthThota/Blog-Wordpress
+**Description and demo link for wordpress application**
+- https://github.com/YashwanthThota/Blog-Wordpress
+
 
