@@ -20,6 +20,12 @@
 - https://github.com/YashwanthThota/Blog-PHP-Laravel
 - https://github.com/YashwanthThota/Todos-PHP-laravel
 
+**Description and demo link for Java Spring Framework applications**
+- https://github.com/YashwanthThota/MusicStore-Java-Spring
+
+**Description for ASP.NET application**
+- https://github.com/YashwanthThota/Vidly-Video-Rental-Application
+
 **Description and demo link for Reactjs applications**
 - https://github.com/YashwanthThota/GoalCoach-ReactJS
 - https://github.com/YashwanthThota/ReminderPro-ReactJS
@@ -27,5 +33,3 @@
 **Description and demo link for Wordpress application**
 -  https://github.com/YashwanthThota/Blog-Wordpress
 
-**Description for ASP.NET application**
-- https://github.com/YashwanthThota/Vidly-Video-Rental-Application
